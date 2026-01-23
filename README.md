@@ -19,9 +19,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CedZzzzzzzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CedZzzzzzzzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CedZzzzzzzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=CedZzzzzzzzz&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CedZzzzzzzzz&icon=0&color=0)](https://visitcount.itsvg.in)

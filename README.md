@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Institute_of_Technology-3rd_Year_Student-800000?style=flat-square&logo=google-scholar&logoColor=white" alt="PUP Student Badge" />
-</p>
-
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,mysql,git,vscode,java,vercel,render,react&theme=light&perline=5)](https://skillicons.dev)
 

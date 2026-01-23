@@ -3,7 +3,6 @@
 
 
 ## Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://facebook.com/marcuscedric.pedrosa" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook&logoColor=black" alt="Facebook" />

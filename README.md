@@ -37,10 +37,6 @@
     <img src="https://skillicons.dev/icons?i=java&theme=light" />
   </a>
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react&theme=light" />
-  </a>
-
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git&theme=light" />
   </a>
@@ -58,9 +54,4 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=CedZzzzzzzzz&show_icons=true&theme=dark" alt="GitHub Stats" />
-
----
-[![](https://visitcount.itsvg.in/api?id=CedZzzzzzzzz&icon=0&color=0)](https://visitcount.itsvg.in)
 

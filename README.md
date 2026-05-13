@@ -1,5 +1,5 @@
 # 💫 About Me:
-**3rd Year Student** at **PUP Sta. Mesa, Institute of Technology**<br>Currently learning, exploring, and developing projects related to **Software Engineering**<br>Passionate about building scalable applications and solving real-world problems<br>Fun fact: I love to automate tasks that makes my life hard and exploring other techstacks
+**3rd Year Student** at **PUP Sta. Mesa, Institute of Technology**<br>Currently learning, exploring, and developing projects related to **Software Engineering**<br>Passionate about building scalable applications and solving real-world problems<br>
 
 
 ## Socials:
@@ -33,9 +33,7 @@
     <img src="https://skillicons.dev/icons?i=postgres&theme=light" />
   </a>
 
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
-  </a>
+  
 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git&theme=light" />

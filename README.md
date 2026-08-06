@@ -1,63 +1,119 @@
-# About Me:
-**3rd Year Computer Engineering Technology Student** at **PUP Sta. Mesa, Institute of Technology**<br>
-Aspiring **Software & AI Engineer** passionate about building intelligent, scalable applications that solve real-world problems.<br>
-Currently exploring the intersection of **software engineering, machine learning, and embedded systems** — turning ideas into working products.<br>
+<div align="center">
 
-## Socials:
-<p align="left">
-  <a href="https://facebook.com/marcuscedric.pedrosa" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=FF0000&center=true&vcenter=true&repeat=true&width=650&height=50&lines=%3E+ACCESS+GRANTED...;%3E+IDENTITY:+MARCUS+CEDRIC+PEDROSA;%3E+ROLE:+COMPUTER+ENGINEERING+STUDENT;%3E+SPECIALIZATION:+MACHINE+LEARNING+%26+AI;%3E+STATUS:+BUILDING+INTELLIGENT+SYSTEMS" alt="Security Terminal Typing SVG" />
   </a>
-  <a href="https://instagram.com/mar_cedz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <br />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=CedZzzzzzzzz&label=PROFILE+VIEWS&color=0e75ea&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Software%20Engineering-FF69B4?style=flat-square&logo=target" alt="Focus" />
+    <img src="https://img.shields.io/badge/Location-Manila%2C%20Philippines-008080?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  </p>
+
+</div>
+
+---
+
+### About Me
+
+Computer Engineering Technology Student at Polytechnic University of the Philippines (Sta. Mesa, Manila), specializing in Machine Learning.  
+Software Quality Assurance Intern with experience in automated Playwright regression testing, Directus SQL schema design, Postman REST API validation, and mobile APK testing.
+
+
+---
+
+### Featured Projects
+
+- [**Quantis-F1**](https://quantis-f1.tech/): Machine learning model predicting the Formula 1 World Drivers' Champion using Monte Carlo simulation, dynamic weightage for 2026 technical regulations, an OpenF1 API ETL pipeline, and a PostgreSQL telemetry database.
+- [**Solar-Powered Monitoring System**](https://pupitech-ecobench.vercel.app/) **(Thesis Project)**: Real-time battery monitoring dashboard for a solar smart bench with 5-second updates from ESP32, historical analytics, daily min-max summaries, role-based access, and CSV reports.
+- [**Budget Tracker Website**](https://balaze.netlify.app/): Full-stack budget tracker featuring AI receipt scanning (extracting up to 50 items), spending analytics with 90-day anomaly detection, AI budget insights, role-based authentication, CSRF protection, and rate limiting.
+
+---
+
+---
+
+### Tech Stack & Skillset
+
+<div align="left">
+
+#### Frontend Development
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Development" /></a>
+</p>
+
+#### Backend & Database
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,postgres,mysql&theme=dark" alt="Backend & Database" /></a>
+</p>
+
+#### Data Science & Machine Learning
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&theme=dark" alt="Data Science & Machine Learning" /></a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   </a>
-  <a href="https://linkedin.com/in/marcus-cedric-pedrosa-1b58b0269" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
 </p>
 
-# Tech Stack:
+#### Automation & Testing
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  </a>
+</p>
+
+#### Tools & DevOps
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Tools & DevOps" /></a>
+</p>
+
+</div>
+
+---
+
+### GitHub Statistics & Analytics
+
+<div align="center">
+  <br>
+
+  <p align="center">
+    <a href="https://github.com/CedZzzzzzzzz">
+      <img src="https://github-stats-extended.vercel.app/api?username=CedZzzzzzzzz&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </a>
+    
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/CedZzzzzzzzz">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CedZzzzzzzzz&theme=dark" alt="GitHub Streak" />
+    </a>
+  </p>
+  
+</div>
+
+---
+
+### Connect With Me
+
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=light" />
+  <a href="https://marcuscedricpedrosa.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-141321?style=flat-square&logo=googlechrome&logoColor=white" height="48" alt="Portfolio" />
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
+  <a href="https://linkedin.com/in/marcus-cedric-pedrosa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" />
+  <a href="https://github.com/CedZzzzzzzzz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" />
+  <a href="https://facebook.com/marcuscedric.pedrosa" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="48" alt="Facebook" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js&theme=light" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react&theme=light" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask&theme=light" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy&theme=light" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas&logoColor=black&color=white" height="48" width="48" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=light" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git&theme=light" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker&theme=light" />
+  <a href="https://instagram.com/mar_cedz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
 </p>
